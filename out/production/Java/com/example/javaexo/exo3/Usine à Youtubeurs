@@ -1,0 +1,20 @@
+EXERCICE JAVA #3 :
+
+>   Écrire une classe représentant une chaîne YouTube. Elle est composée d'un nom d'affichage,
+    d'un identifiant, d'un nombre d'abonnés, de vues, de vidéos publiées et d'une date de création.
+
+>   Indications:
+        - On doit pouvoir créer des chaînes en renseignant leur nom d'affichage et un identifiant, s'il est
+            disponible. Les compteurs d'abonnés, de vues et de vidéos sont définis à 0 par défaut.
+
+        - Traitez les quelques cas d'erreur suivants en affichant des messages à l'utilisateur (si
+            l'identifiant de chaîne existe déjà ou si le nombre d'abonnés est inférieur à 0). N'oubliez pas 
+            d'implémenter les propriétés nécessaires.
+
+        - Testez votre programme en créant la chaîne "FormationVidéo", ayant pour identifiant 
+            "formation-video", 215 000 abonnés, 21 046 204 vues et 618 vidéos publiées, dont la création 
+            remonte au 3 juin 2015. Puis, déclarez une nouvelle chaîne avec le nom et l'identifiant de votre 
+            choix.
+
+        - Deux méthodes fictives sont utilisables : "isAvailableChannelId()" pour vérifier si un identifiant 
+            de chaîne est disponible, et "getTodayDate()" pour récupérer la date du jour au format textuel.

@@ -1,0 +1,25 @@
+EXERCICE JAVA #1
+
+Q1. Quelle entreprise a racheté Java auprès de Sun Microsystems ?
+[b] Oracle
+
+Q2. Peut-on créer des sites web avec ce langage ?
+[a] Oui
+
+Q3. Comment est exécuté un programme, à partir de l'écriture du code source ?
+[c] Il est compilé en un code intermédiaire, puis exécuté via une machine virtuelle
+
+Q4. Mon programme écrit sur Windows va-t-il fonctionner sur GNU/Linux ou MacOS ?
+[a] Oui
+
+Q5. Est-il obligatoire d'écrire une classe pour un programme, même minimal ?
+[a] Oui
+
+Q6. Quel programme permet de compiler le code source ?
+[b] javac
+
+Q7. Quelle est la bonne méthode main servant de point d'entrée au programme ?
+[b] public static void main(String[] args)
+
+Q8. Que fait la méthode (fonction) println ?
+[a] Elle affiche du texte et fait un retour à la ligne
