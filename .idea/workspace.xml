@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edd2d35b-d2ae-4df5-b008-c9799904af9a" name="Changes" comment="" />
+    <list default="true" id="edd2d35b-d2ae-4df5-b008-c9799904af9a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,12 +32,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="203ca20b-903f-4f5d-9047-9b02f0ebfabf" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Redcroow/java-module-cours.git&quot;,
-    &quot;accountId&quot;: &quot;203ca20b-903f-4f5d-9047-9b02f0ebfabf&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Redcroow/java-module-cours.git",
+    "accountId": "acf9fdf1-0697-45cd-a25b-7c9feac26031"
   }
-}</component>
+}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -52,56 +54,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BDD.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bases.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bases2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Chaine.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassAbstraite.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CleValeur.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dates et durée.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Draw my life.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ensemble.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Enumeration.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fichier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Files.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Genericite.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Heritage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interfaces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.List.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sous condition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Threads.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Usine Youtubeurs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.example.javacours.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.java_cours.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.polymorphisme.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu-24.04/home/linkai/projects/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.BDD.executor": "Run",
+    "Application.Bases.executor": "Run",
+    "Application.Bases2.executor": "Run",
+    "Application.Chaine.executor": "Run",
+    "Application.ClassAbstraite.executor": "Run",
+    "Application.CleValeur.executor": "Run",
+    "Application.Dates et durée.executor": "Run",
+    "Application.Draw my life.executor": "Run",
+    "Application.Ensemble.executor": "Run",
+    "Application.Enumeration.executor": "Run",
+    "Application.Exception.executor": "Run",
+    "Application.Fichier.executor": "Run",
+    "Application.Files.executor": "Run",
+    "Application.Genericite.executor": "Run",
+    "Application.Heritage.executor": "Run",
+    "Application.Interfaces.executor": "Run",
+    "Application.List.executor": "Run",
+    "Application.MainApp.executor": "Run",
+    "Application.Sous condition.executor": "Run",
+    "Application.Threads.executor": "Run",
+    "Application.Usine Youtubeurs.executor": "Run",
+    "Application.com.example.javacours.App.executor": "Run",
+    "Application.java_cours.App.executor": "Run",
+    "Application.polymorphisme.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-24.04/home/linkai/projects/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.javacours.abstraite" />
@@ -336,6 +338,7 @@
       <workItem from="1721990065633" duration="3237000" />
       <workItem from="1722246988150" duration="1015000" />
       <workItem from="1722248026836" duration="14648000" />
+      <workItem from="1722262863234" duration="264000" />
     </task>
     <servers />
   </component>
